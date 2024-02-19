@@ -1,0 +1,16 @@
+[submodule "drqv2"]
+	path = drqv2
+	url = git@github.com:dxyang/drqv2.git
+[submodule "r3m"]
+	path = r3m
+	url = git@github.com:dxyang/r3m.git
+[submodule "metaworld"]
+	path = metaworld
+	url = git@github.com:dxyang/metaworld.git
+	branch = rewardlearning-vid
+[submodule "pytorch_sac"]
+	path = pytorch_sac
+	url = git@github.com:dxyang/pytorch_sac.git
+[submodule "ROT"]
+	path = ROT
+	url = git@github.com:dxyang/ROT.git
